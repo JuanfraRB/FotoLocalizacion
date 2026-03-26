@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Localizaciones</string>
+    <string name="splash_title">Localizaciones</string>
+    <string name="splash_legal_message">Esta aplicación es un proyecto educativo y gratuito,
+        desarrollado con fines de aprendizaje y práctica en programación Android.
+        No se garantiza su perfecto funcionamiento ni se responsabiliza por su uso.
+        Utilícela bajo su propia responsabilidad.</string>
+    <string name="disclaimer_info"><b>\u2022 Proyecto Personal:</b> Es un proyecto personal y de aprendizaje.\n\n<b>\u2022 Gratuita y Personal:</b> Esta aplicación se ofrece de forma totalmente gratuita. No está permitida su venta, redistribución o modificación sin el consentimiento expreso del desarrollador.\n\n<b>\u2022 Uso Bajo Tu Responsabilidad:</b> La aplicación se proporciona \"tal cual\", sin garantías de ningún tipo. El desarrollador no se hace responsable de cualquier daño directo o indirecto surgido de su funcionamiento.\n\n<b>\u2022 Uso Prudente:</b> Se recomienda un uso prudente y bajo tu propia discreción.\n\nAl continuar, aceptas las presentes condiciones.</string>
+
+    <string name="logo_de_la_empresa">Logo de JFRB</string>
+    <string name="continuar">Continuar</string>
+    <string name="autor">Desarrollado por Juan Francisco Rodríguez Berenguel e-mail: JuanfraRB@outlook.es</string>
+    <string name="about_app_description">Esta es una aplicación de fotografía donde se añade marca con el posicionamiento gps.</string>
+    <string name="introducir_mensaje">Introducir Mensaje</string>
+    <string name="sobre">Sobre…</string>
+    <string name="acerca_de">Acerca de</string>
+
+    <string name="juanfrarb_outlook_es">JuanfraRB@outlook.es</string>
+    <string name="developer">Desarrollador</string>
+    <string name="juan_f_rodr_guez">Juan F. Rodríguez</string>
+    <string name="sobre_esta_app">Sobre esta App</string>
+    <string name="contacto">Contacto</string>
+    <string name="versi_n_1_1_1">Versión 1.1.1</string>
+    <string name="permiso_denegado">Permiso denegado</string>
+    <string name="gps_desactivado">GPS desactivado</string>
+    <string name="error_crear_archivo">Error al crear archivo</string>
+    <string name="hacer_foto">Hacer Foto</string>
+    <string name="repetir_foto">Repetir</string>
+    <string name="guardar_foto">Guardar</string>
+</resources>
